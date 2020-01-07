@@ -14,3 +14,7 @@ $ python diff.py fileA fileB
 This will show the diff script to go from file A to file B. You can test out the command with the `test1.txt` and `test2.txt` files included in the repository.
 
 To have the command available at all times, make sure the script `diff.py` is executable and then include it in your `$PATH`.
+
+## Analysis
+
+For an extended analysis, refer to the PDF in this repo titled "The Myers Difference Algorithm for Version Control Systems".
